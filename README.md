@@ -12,6 +12,7 @@ We then examine a constant steel implant, elastic modulus of 200 GPa at 4 locati
  - b
  - c
  - d
+ 
  All located in the medullary cavity of the proximal femoral diaphysis. 
  
 ![Locations](https://github.com/ggdurrant/Femoral-Implant-Stress-Distribution/blob/main/images/implantlocs.PNG)
