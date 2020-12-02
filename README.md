@@ -6,6 +6,7 @@ For each of the types of bone:
  - Homogenous young bone, elastic modulus assumed to be 17 GPa
  - Homogenous old bone, elastic modulus assumed to be 13 GPa
  - Heterogenous bone, elastic modulus assumed to be a function of bone mineral density (BMD), calculated from bone scan
+ 
 We then examine a constant steel implant, elastic modulus of 200 GPa at 4 locations:
  - a
  - b
@@ -20,7 +21,8 @@ The implant and BMD weighted centroids are calculated in each case, such as:
 ## Results
 The max stresses and corresponding locations for each case can be calculated, as well as looking at the distribution of compressive and tensile stresses, which are plotted with the neutral axis. 
 
-### The stress distribution of the variable BMD heterogenous bone 
+The stress distribution of the variable BMD heterogenous bone can then be plotted.
+
 ### without an implant:
 ![NA](https://github.com/ggdurrant/Femoral-Implant-Stress-Distribution/blob/main/images/noImplant.png)
 
