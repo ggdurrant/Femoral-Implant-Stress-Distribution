@@ -11,6 +11,7 @@ We then examine a constant steel implant, elastic modulus of 200 GPa at 4 locati
  - b
  - c
  - d
+ 
 ![Locations](https://github.com/ggdurrant/Femoral-Implant-Stress-Distribution/blob/main/images/implantlocs.PNG)
 
 The implant and BMD weighted centroids are calculated in each case, such as:
@@ -19,8 +20,9 @@ The implant and BMD weighted centroids are calculated in each case, such as:
 ## Results
 The max stresses and corresponding locations for each case can be calculated, as well as looking at the distribution of compressive and tensile stresses, which are plotted with the neutral axis. 
 
-The stress distribution of the variable BMD heterogenous bone without an implant:
+### The stress distribution of the variable BMD heterogenous bone 
+### without an implant:
 ![NA](https://github.com/ggdurrant/Femoral-Implant-Stress-Distribution/blob/main/images/noImplant.png)
 
-The distribution with an implant at location d:
+### with implant at location d:
 ![NAImplant](https://github.com/ggdurrant/Femoral-Implant-Stress-Distribution/blob/main/images/implantD.png)
